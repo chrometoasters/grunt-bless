@@ -34,7 +34,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "bless": "git://github.com/michalkleiner/bless.js#cache-buster-hash",
+    "bless": "git://github.com/chrometoasters/bless.js#cache-buster-hash",
     "chalk": "~0.5.1"
   },
   "devDependencies": {
